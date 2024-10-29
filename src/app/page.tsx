@@ -8,20 +8,6 @@ import Image from 'next/image'
 
 const slides = [
   {
-    title: "自己紹介",
-    icon: <UserRoundSearch className="w-16 h-16 mb-6 text-teal-500" />,
-    content: [
-      "Name: Asa",
-      "Hobby: BaseBall, Sauna, BoardGame",
-      "Work: SRE, PlatForm",
-      "",
-      "X : @Dasadadana13",
-      "Github : https://github.com/toasahi",
-      "Zenn : https://zenn.dev/asahigamieru"
-    ],
-    image: "/profile.jpg"
-  },
-  {
     title: "v0: 次世代AI開発アシスタント",
     icon: <Code className="w-16 h-16 mb-6 text-blue-500" />,
     content: [
